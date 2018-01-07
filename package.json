@@ -1,0 +1,26 @@
+{
+  "name": "arabic-persian-reshaper",
+  "version": "1.0.0",
+  "description": "Node.js module for reshaping Right-To-Left (Arabic/Persian) charators in string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soimy/arabic-persian-reshaper.git"
+  },
+  "keywords": [
+    "string",
+    "arabic",
+    "persian",
+    "reshaper",
+    "unicode"
+  ],
+  "author": "YM Shen <soimy@163.com> (http://github.com/soimy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soimy/arabic-persian-reshaper/issues"
+  },
+  "homepage": "https://github.com/soimy/arabic-persian-reshaper#readme"
+}
