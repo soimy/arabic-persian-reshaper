@@ -140,7 +140,7 @@ function convertArabic(normal) {
 	var crep,
 		combcrep,
 		shaped = "";
-	console.log("custom utils/ArabicShaper.js by Alex_Clay");
+		
 	for ( var i = 0 ; i < normal.length ; ++i ) {
 		var current = normal.charCodeAt(i);
 		if ( CharacterMapContains( current ) ) {
