@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/soimy/arabic-persian-reshaper/issues"
   },
-  "homepage": "https://github.com/soimy/arabic-persian-reshaper#readme"
+  "homepage": "https://github.com/soimy/arabic-persian-reshaper#readme",
+  "devDependencies": {
+    "standard-version": "^7.1.0"
+  }
 }
