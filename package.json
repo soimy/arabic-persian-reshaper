@@ -1,6 +1,6 @@
 {
   "name": "arabic-persian-reshaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js module for reshaping Right-To-Left (Arabic/Persian) charators in string",
   "main": "index.js",
   "scripts": {
